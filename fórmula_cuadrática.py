@@ -1,5 +1,5 @@
 #Santiago Gabriel Vallejo García A01631816
-#Daniel Efren Velázquez Lara A01636246
+#Daniel Efren Velázquez Lara A01636246  hi
 from math import sqrt
 a=int(input("Escribe el coeficiente de x^2 de tu función cuadrática. "))
 b=int(input("Escribe el coeficiente de x de tu función cuadrática. "))
@@ -24,6 +24,3 @@ else:
         x1 = (-b/(2 * a))
         x2 = (-b/(2 * a))
         print(x1, x2)
-
-
-
